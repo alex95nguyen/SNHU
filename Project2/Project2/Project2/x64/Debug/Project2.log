@@ -1,0 +1,9 @@
+﻿  bankFunctions.cpp
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(32,28): warning C4101: 'excpt': unreferenced local variable
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(178,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(180,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(196,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(198,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(221,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex8\source\repos\Project2\Project2\bankFunctions.cpp(324,29): warning C4101: 'excpt': unreferenced local variable
+  Project2.vcxproj -> C:\Users\alex8\source\repos\Project2\x64\Debug\Project2.exe
